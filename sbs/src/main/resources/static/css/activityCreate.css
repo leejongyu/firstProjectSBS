@@ -1,0 +1,24 @@
+@charset "UTF-8";
+body {
+       background-color: #282c37;
+    color: rgb(0, 0, 0);
+}
+.features-icons {
+    background-color: ghostwhite;
+       color: rgb(0, 0, 0);
+}
+
+.my-2 {
+    border-radius: 20px 20px 20px 20px;
+    background-color:  #9baec8;
+}
+
+
+
+.form-control {
+    border-radius: 10px 10px 10px 10px;
+}
+
+h1 {
+    color: #fff;
+}
